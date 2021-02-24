@@ -1,2 +1,4 @@
 # authoboot-api
-Web- and Persistence-agnostic Authorization API For Rust
+Framework-agnostic Authorization API For Rust Lang
+
+This project is in active development.
