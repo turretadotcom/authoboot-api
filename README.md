@@ -1,2 +1,2 @@
-# authobot-api
+# authoboot-api
 Authorization API For Rust
